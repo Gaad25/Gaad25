@@ -24,8 +24,9 @@ I build and ship real products. My main project is **Memo**, an AI-powered study
 - Built a contract dashboard consolidating **10 data sources**, used by **20–40 people**
 - SQL · Python · Power BI · Power Query
 
-**BI Intern — Infraero (Brazilian Airport Authority)** · Aug 2023 – Jun 2024
-- Built and maintained Power BI reports and dashboards
+**BI Intern — Infraero (Brazilian Airport Authority)** · Sep 2024 – Jun 2025
+- Built interactive Power BI dashboards to manage and track contracts for the commercial team
+- Extracted, cleaned and modeled data from multiple sources
 
 ---
 
